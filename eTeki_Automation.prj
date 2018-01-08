@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project>
+   <description></description>
+   <name>eTeki_Automation</name>
+   <tag></tag>
+   <UUID>eeaf76db-c118-4931-b679-9ca305034c21</UUID>
+   <pageLoadTimeout>30</pageLoadTimeout>
+</Project>
